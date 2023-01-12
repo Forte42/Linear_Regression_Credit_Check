@@ -18,7 +18,7 @@ Both Pandas and Scikit_learn can be installed with pip install.
 
 ## Usage
 
-This notebook was made to investigate using oveersampled models. I compare an impbalanced model with and without oversampling.
+This notebook was made to investigate using oversampled models. I compare an impbalanced model with and without oversampling.
 
 ![Not_oversampled_model.](Resources/original_model.png)
 ![oversampled_model.](Resources/resampled_model.png)
